@@ -14,6 +14,6 @@ Windows 11
 
 ## Lessons Learned
 - was man beim projekt gelernt hat
-- augelisted
+- aufgelisted
 - anlegen GitRepo mit gitignore und readme
 - Basic workflow mit git <-> GitHub

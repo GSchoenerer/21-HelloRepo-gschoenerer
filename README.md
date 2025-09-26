@@ -17,3 +17,8 @@ Windows 11
 - aufgelisted
 - anlegen GitRepo mit gitignore und readme
 - Basic workflow mit git <-> GitHub
+
+
+     Aenderungen durchgefuehrt
+
+  
